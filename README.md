@@ -48,29 +48,29 @@
 ## 目录结构
 ├── README.md # 项目说明文档
 ├── report/ # 作业报告
-│ └── hw4_2351273_邓语乐.pdf
+│   └── hw4_2351273_邓语乐.pdf
 └── screenshots/ # 测试截图
-├── qianwen/ # Qwen-7B-Chat测试截图
-│ ├── deployment.png # 部署完成截图
-│ ├── test1.png # 测试问题1截图
-│ ├── test2.png # 测试问题2截图
-│ ├── test3.png # 测试问题3截图
-│ ├── test4.png # 测试问题4截图
-│ └── test5.png # 测试问题5截图
-├── chatglm/ # ChatGLM3-6B测试截图
-│ ├── deployment.png # 部署完成截图
-│ ├── test1.png # 测试问题1截图
-│ ├── test2.png # 测试问题2截图
-│ ├── test3.png # 测试问题3截图
-│ ├── test4.png # 测试问题4截图
-│ └── test5.png # 测试问题5截图
-└── baichuan/ # Baichuan2-7B-Chat测试截图
-├── deployment.png # 部署完成截图
-├── test1.png # 测试问题1截图
-├── test2.png # 测试问题2截图
-├── test3.png # 测试问题3截图
-├── test4.png # 测试问题4截图
-└── test5.png # 测试问题5截图
+    ├── qianwen/ # Qwen-7B-Chat测试截图
+    │   ├── deployment.png # 部署完成截图
+    │   ├── test1.png # 测试问题1截图
+    │   ├── test2.png # 测试问题2截图
+    │   ├── test3.png # 测试问题3截图
+    │   ├── test4.png # 测试问题4截图
+    │   └── test5.png # 测试问题5截图
+    ├── chatglm/ # ChatGLM3-6B测试截图
+    │   ├── deployment.png # 部署完成截图
+    │   ├── test1.png # 测试问题1截图
+    │   ├── test2.png # 测试问题2截图
+    │   ├── test3.png # 测试问题3截图
+    │   ├── test4.png # 测试问题4截图
+    │   └── test5.png # 测试问题5截图
+    └── baichuan/ # Baichuan2-7B-Chat测试截图
+        ├── deployment.png # 部署完成截图
+        ├── test1.png # 测试问题1截图
+        ├── test2.png # 测试问题2截图
+        ├── test3.png # 测试问题3截图
+        ├── test4.png # 测试问题4截图
+        └── test5.png # 测试问题5截图
 
 ## 学生信息
 
